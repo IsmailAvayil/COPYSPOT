@@ -31,12 +31,7 @@ a{
     overflow:hidden;
     position:sticky;
     top: 0px;
-    
-    
-    
-
-    
- 
+     
 }
 
 #navbar a{ 
@@ -134,12 +129,8 @@ a{
 section{
     background-color: #f4f4f4;
 }
- .box{
-    float: left;
-    text-align: center;
-    width: 33.33%;
-    
-}
+
+
 .fa-5x{
     background-color: #ebc342;
     border-radius: 50%;
@@ -164,8 +155,7 @@ section{
     height: 400px;
     width: 400px;
     margin: 20px 10px 15px;
-    text-align: center;
-    
+    text-align: center;    
 } 
 
 .desc{
@@ -176,6 +166,7 @@ section{
 .info img{
     height: 400px;
     width: 400px;
+
 }
 .info h2{
     color: #f4f4f4;
@@ -213,8 +204,10 @@ section{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-between;
-
-    
+        
+}
+.technology{
+    padding: 20px;
 }
 
 .technology img{
@@ -257,10 +250,14 @@ section{
     display: flex;
     justify-content: space-between;
     padding: 80px 80px 10px 80px;
-    margin:2px;
+    /*     margin:10px; */
     flex-wrap: wrap;
-
+    
 }
+.form-control{
+    padding: 5px;
+}
+
 .msg-form{
     color:white;
     margin: 50px 0px;
@@ -278,11 +275,12 @@ input[type=text],input[type=mail] {
     border: 1px solid white;
     background-color:#111c12;
     text-align: center;
+    
 }
 .Address{
     display: flex;
     flex-wrap: wrap;
-    padding: 0px 80px 10px 80px;
+    padding: 0px 85px 10px 85px;
     justify-content: space-between;
 
 }

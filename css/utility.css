@@ -17,7 +17,7 @@
 }
 
 
-}
+
 
 .body-content h2{
     font-family:fantasy;
@@ -28,3 +28,40 @@ hr{
     margin: auto;
     
 }
+
+.continer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+    margin: 0 140px;
+    
+}
+
+.box{
+    text-align: center;
+    padding: 20px;
+    
+}
+
+
+
+@media(max-width: 768px){
+    .continer{
+        flex-direction:column;
+        
+    }
+    .technology-container {
+        flex-direction: column;
+    }
+    .details-container{
+        flex-direction: column;
+    }
+    input[type=text],input[type=mail]{
+        height: 50px;
+        width:325px;
+    } 
+
+    
+}
+    

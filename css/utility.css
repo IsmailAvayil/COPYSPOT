@@ -11,23 +11,47 @@
     background-color: #f4f4f4;
     width: 100%;
     text-align: center;
-    padding-top:80px;
-    
     
 }
 
 
 
 
-.body-content h2{
-    font-family:fantasy;
-}
-hr{
-    border:3px solid #ebc342;
-    width: 150px;
-    margin: auto;
+.continer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
     
 }
+
+
+<<<<<<< HEAD
+
+=======
+.box{
+    text-align: center;
+    padding: 20px 30px;
+    
+}
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
+
+.box p{
+    padding: 15px 0;
+    color: rgba(0,0,0,0.7);
+}
+
+
+
+
+.box i{
+    background-color:#ebc342;
+    border-radius: 50%;
+    color:#fff;
+    padding: 10px;
+    
+}
+<<<<<<< HEAD
 
 .continer{
     display: flex;
@@ -42,10 +66,27 @@ hr{
     text-align: center;
     padding: 20px;
     
+=======
+.box i:hover{
+    background-color:#fff;
+    border-radius: 50% ;
+    color:#ebc342;
+    padding: 10px;
+    
+}
+.box h3{
+    padding: 10px 0;
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 }
 
 
 
+<<<<<<< HEAD
+=======
+
+
+
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 @media(max-width: 768px){
     .continer{
         flex-direction:column;

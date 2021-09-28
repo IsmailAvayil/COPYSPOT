@@ -29,6 +29,18 @@ a{
 
 
 /* Navbar */
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+#navbar {
+    background-color:#333;
+    color:#fff;
+    overflow:hidden;
+    position:sticky;
+    top: 0px;
+     
+=======
+>>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
 .navbar{
     display: flex;
     align-items: center;
@@ -43,6 +55,10 @@ a{
     top: 0;
 
 
+<<<<<<< HEAD
+=======
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
+>>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
 }
 
 .navbar ul{
@@ -141,6 +157,7 @@ a{
     background-color: black;
     color: #fff;
 }
+<<<<<<< HEAD
 
 .box  .btn1{
     border: 2px solid #ebc342;
@@ -167,9 +184,48 @@ a{
 
 section{
     background-color: 1px solid #ebc342;
+=======
+
+.box  .btn1{
+    border: 2px solid #ebc342;
+    padding: 5px 15px;
+    border-radius: 8px;
+    color:black;
+    
+>>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
+}
+
+<<<<<<< HEAD
+
+<<<<<<< HEAD
+=======
+.fa-5x{
+    background-color: #ebc342;
+    border-radius: 50%;
+    
+=======
+.box .btn1:hover{
+    background-color:#ebc342 ;
+    color: black;
+}
+
+/* body */
+.body-content{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 25px 0;
+}
+
+section{
+    background-color: 1px solid #ebc342;
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 }
 
 
+>>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
 .body-content p{
     color: rgba(0,0,0,0.7);
     padding: 30px 20px;
@@ -246,11 +302,21 @@ section{
 }
 
 
+<<<<<<< HEAD
+
+/* flex-container */
+#client{
+    margin-top:0px;
+=======
+>>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
 
 /* flex-container */
 #client{
     margin-top:0px;
 
+}
+#client h1{
+    padding: 0;
 }
 #client h1{
     padding: 0;
@@ -269,12 +335,30 @@ section{
 .technology-container{
     display:flex;
     flex-direction: row;
+<<<<<<< HEAD
     justify-content: space-around;
     align-items: center;
 
         
 }
 .technology{
+=======
+<<<<<<< HEAD
+    flex-wrap: wrap;
+    justify-content: space-between;
+        
+}
+.technology{
+    padding: 20px;
+=======
+    justify-content: space-around;
+    align-items: center;
+
+        
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
+}
+.technology{
+>>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
     padding:20px 30px;
     }
 
@@ -318,10 +402,17 @@ section{
     /*     margin:10px; */
     flex-wrap: wrap;
     
+<<<<<<< HEAD
 }
 .form-control{
     padding: 5px;
 }
+=======
+}
+.form-control{
+    padding: 5px;
+}
+>>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 
 .msg-form{
     color:white;

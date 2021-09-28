@@ -29,15 +29,13 @@ a{
 
 
 /* Navbar */
-<<<<<<< HEAD
 #navbar {
     background-color:#333;
     color:#fff;
     overflow:hidden;
     position:sticky;
     top: 0px;
-     
-=======
+}
 .navbar{
     display: flex;
     align-items: center;
@@ -50,9 +48,6 @@ a{
     padding: 0 30px;
     position: fixed;
     top: 0;
-
-
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 }
 
 .navbar ul{
@@ -160,13 +155,6 @@ a{
     
 }
 
-<<<<<<< HEAD
-
-.fa-5x{
-    background-color: #ebc342;
-    border-radius: 50%;
-    
-=======
 .box .btn1:hover{
     background-color:#ebc342 ;
     color: black;
@@ -184,7 +172,6 @@ a{
 
 section{
     background-color: 1px solid #ebc342;
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 }
 
 
@@ -208,7 +195,7 @@ section{
 
 
 #info-section{
-    background-image: url('/img/photostat.jpg');
+    background-image: url('../img/photostat.jpg');
     position: center;
     opacity: 0.8;
     width: 100%;
@@ -287,19 +274,14 @@ section{
 .technology-container{
     display:flex;
     flex-direction: row;
-<<<<<<< HEAD
     flex-wrap: wrap;
     justify-content: space-between;
         
 }
 .technology{
     padding: 20px;
-=======
     justify-content: space-around;
     align-items: center;
-
-        
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 }
 .technology{
     padding:20px 30px;
@@ -342,20 +324,12 @@ section{
     display: flex;
     justify-content: space-between;
     padding: 80px 80px 10px 80px;
-    /*     margin:10px; */
-    flex-wrap: wrap;
-    
-<<<<<<< HEAD
 }
 .form-control{
     padding: 5px;
 }
-=======
-}
-.form-control{
-    padding: 5px;
-}
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
+
+
 
 .msg-form{
     color:white;

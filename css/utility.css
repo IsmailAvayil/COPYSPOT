@@ -26,15 +26,12 @@
 }
 
 
-<<<<<<< HEAD
 
-=======
 .box{
     text-align: center;
     padding: 20px 30px;
     
 }
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 
 .box p{
     padding: 15px 0;
@@ -51,7 +48,7 @@
     padding: 10px;
     
 }
-<<<<<<< HEAD
+
 
 .continer{
     display: flex;
@@ -66,7 +63,7 @@
     text-align: center;
     padding: 20px;
     
-=======
+}
 .box i:hover{
     background-color:#fff;
     border-radius: 50% ;
@@ -76,17 +73,11 @@
 }
 .box h3{
     padding: 10px 0;
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
+
 }
 
 
 
-<<<<<<< HEAD
-=======
-
-
-
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
 @media(max-width: 768px){
     .continer{
         flex-direction:column;

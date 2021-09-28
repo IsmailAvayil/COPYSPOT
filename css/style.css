@@ -29,25 +29,13 @@ a{
 
 
 /* Navbar */
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
 #navbar {
     background-color:#333;
     color:#fff;
     overflow:hidden;
     position:sticky;
     top: 0px;
-<<<<<<< HEAD
 }
-=======
-     
-=======
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
 .navbar{
     display: flex;
     align-items: center;
@@ -60,15 +48,6 @@ a{
     padding: 0 30px;
     position: fixed;
     top: 0;
-<<<<<<< HEAD
-=======
-
-
-<<<<<<< HEAD
-=======
->>>>>>> e49fa9a3088c50a2f6db787cf74d0f499d615980
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
 }
 
 .navbar ul{
@@ -167,7 +146,6 @@ a{
     background-color: black;
     color: #fff;
 }
-<<<<<<< HEAD
 
 .box  .btn1{
     border: 2px solid #ebc342;
@@ -177,46 +155,6 @@ a{
     
 }
 
-<<<<<<< HEAD
-=======
-.box .btn1:hover{
-    background-color:#ebc342 ;
-    color: black;
-}
-
-/* body */
-.body-content{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    text-align: center;
-    margin: 25px 0;
-}
-
-section{
-    background-color: 1px solid #ebc342;
-=======
-
-.box  .btn1{
-    border: 2px solid #ebc342;
-    padding: 5px 15px;
-    border-radius: 8px;
-    color:black;
-    
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
-}
-
-<<<<<<< HEAD
-
-<<<<<<< HEAD
-=======
-.fa-5x{
-    background-color: #ebc342;
-    border-radius: 50%;
-    
-=======
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
 .box .btn1:hover{
     background-color:#ebc342 ;
     color: black;
@@ -237,7 +175,6 @@ section{
 }
 
 
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
 .body-content p{
     color: rgba(0,0,0,0.7);
     padding: 30px 20px;
@@ -314,21 +251,11 @@ section{
 }
 
 
-<<<<<<< HEAD
-
-/* flex-container */
-#client{
-    margin-top:0px;
-=======
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
 
 /* flex-container */
 #client{
     margin-top:0px;
 
-}
-#client h1{
-    padding: 0;
 }
 #client h1{
     padding: 0;
@@ -347,18 +274,6 @@ section{
 .technology-container{
     display:flex;
     flex-direction: row;
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-    justify-content: space-around;
-    align-items: center;
-
-        
-}
-.technology{
-=======
-<<<<<<< HEAD
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
     flex-wrap: wrap;
     justify-content: space-between;
         
@@ -369,7 +284,6 @@ section{
     align-items: center;
 }
 .technology{
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
     padding:20px 30px;
     }
 

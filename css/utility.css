@@ -26,15 +26,6 @@
 }
 
 
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-.box{
-    text-align: center;
-    padding: 20px 30px;
-=======
-<<<<<<< HEAD
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
 
 .box{
     text-align: center;
@@ -55,10 +46,8 @@
     border-radius: 50%;
     color:#fff;
     padding: 10px;
->>>>>>> d27a25925dbb6cfb060115254de9e21eaa050d5d
     
 }
-<<<<<<< HEAD
 
 
 .continer{
@@ -67,37 +56,12 @@
     justify-content: space-around;
     align-items: center;
     margin: 0 140px;
-=======
-.box i:hover{
-    background-color:#fff;
-    border-radius: 50% ;
-    color:#ebc342;
-    padding: 10px;
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
     
 }
-.box h3{
-    padding: 10px 0;
-}
-.box h3{
-    padding: 10px 0;
-}
 
-
-
-.box p{
-    padding: 15px 0;
-    color: rgba(0,0,0,0.7);
-}
-
-
-
-
-.box i{
-    background-color:#ebc342;
-    border-radius: 50%;
-    color:#fff;
-    padding: 10px;
+.box{
+    text-align: center;
+    padding: 20px;
     
 }
 .box i:hover{
@@ -109,15 +73,8 @@
 }
 .box h3{
     padding: 10px 0;
-<<<<<<< HEAD
 
 }
-=======
-}
-
-
-
->>>>>>> 72eaceaf6238f20bc1dbd99232388e2e6a3e808b
 
 
 

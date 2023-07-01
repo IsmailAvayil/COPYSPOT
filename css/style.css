@@ -197,7 +197,7 @@ section{
 
 
 #info-section{
-    background-image: url('./img/photostat.jpg');
+    background-image: url('../img/photostat.jpg');
     position: center;
     opacity: 0.8;
     width: 100%;
